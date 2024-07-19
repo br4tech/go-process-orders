@@ -29,7 +29,7 @@ Este projeto demonstra como criar um sistema de processamento de pedidos em Go, 
 
 ### Clone o Repositório:
 ```bash
-  git clone https://github.com/seu-usuario/seu-projeto.git
+  git clone https://github.com/br4tech/go-process-orders.git
 ```
 
 ### Inicie os Containers:
